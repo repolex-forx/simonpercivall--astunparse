@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonpercivall/astunparse/commit/2acce01fcdda2ea32eea835c30ccca21aaff7297",
       "git:hexsha": "2acce01fcdda2ea32eea835c30ccca21aaff7297",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.6.3"
     },
     {
